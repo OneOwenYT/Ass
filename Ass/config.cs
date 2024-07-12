@@ -1,8 +1,8 @@
 ﻿using Exiled.API.Interfaces;
 
-namespace Ass
+namespace Ass.Configs
 {
-    public class config : IConfig
+    public class Config : IConfig
     {
         public bool IsEnabled { get; set; }
         public bool Debug { get; set; }

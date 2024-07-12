@@ -1,8 +1,8 @@
 ﻿using Exiled.API.Interfaces;
 
-namespace Ass
+namespace Ass.Configs
 {
-    public class translation : ITranslation
+    public class Translation : ITranslation
     {
     }
 }
